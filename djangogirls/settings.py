@@ -25,7 +25,7 @@ SECRET_KEY = 'zcl%9_@9!!yqh*^=2mh)j^^+vq(l8$t!=(bv=8cy-bhvs7pvsk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'Dima.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'Dima.pythonanywhere.com', 'vzic.pythonanywhere.com']
 
 
 # Application definition
